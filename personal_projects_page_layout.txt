@@ -1,0 +1,4 @@
+1. Header with website name and navigation menu
+2. Introductory section with brief description of personal projects
+3. Individual project sections with images, descriptions, and links to live projects or code repositories
+4. Footer with contact information and social media links

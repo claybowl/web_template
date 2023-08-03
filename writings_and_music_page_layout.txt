@@ -1,0 +1,4 @@
+1. Header with website name and navigation menu
+2. Introductory section with brief description of writings and music
+3. Individual sections for each piece of writing or music with images, descriptions, and links to full pieces or tracks
+4. Footer with contact information and social media links

@@ -1,0 +1,4 @@
+1. Header with website name and navigation menu
+2. Introductory section with brief description of personal history
+3. Timeline section with key events and accompanying descriptions and images
+4. Footer with contact information and social media links

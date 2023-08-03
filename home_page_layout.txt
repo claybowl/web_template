@@ -1,0 +1,5 @@
+1. Header with website name and navigation menu
+2. Hero section with large image and call to action
+3. About section with brief bio and photo
+4. Featured projects section with images and brief descriptions
+5. Footer with contact information and social media links

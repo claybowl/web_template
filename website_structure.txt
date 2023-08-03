@@ -1,0 +1,19 @@
+Pages:
+- Home
+- About
+- Portfolio
+- Contact
+
+Information on each page:
+- Home: Introduction and welcome message
+- About: Personal information and background
+- Portfolio: Display of work and achievements
+- Contact: Contact information and form
+
+Links:
+- Navigation menu linking to each page
+
+Design:
+- Vibrant colors
+- Sleek and professional layout
+- Responsive design for different devices
